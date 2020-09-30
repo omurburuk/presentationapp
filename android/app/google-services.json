@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179653750975",
+    "firebase_url": "https://birlikegitimsen-cc845.firebaseio.com",
+    "project_id": "birlikegitimsen-cc845",
+    "storage_bucket": "birlikegitimsen-cc845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179653750975:android:7edc4b6843f00b64ec960a",
+        "android_client_info": {
+          "package_name": "com.omurburuk.birlikegitimsen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179653750975-mlongauvd4aj4ivur2c9d36fm7p1echc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPeXJ5AbhRVtclIgVWvGui5bxK12QRRXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179653750975-mlongauvd4aj4ivur2c9d36fm7p1echc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
