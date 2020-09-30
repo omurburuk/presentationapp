@@ -1,6 +1,6 @@
 # birlikegitimsen
 
-A new Flutter project. There has a mysql database. It uses slider, listview, decoration, text input & controllers, login system in app. This project have a web management panel.
+A new Flutter project. There has a mysql database. It uses notification system, slider, listview, decoration, text input & controllers, login system in app. This project have a web management panel.
 
 ## Getting Started
 
